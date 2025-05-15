@@ -13,7 +13,7 @@ This repository contains projects on how to use use state and get input results 
 1. Clone this project
 
 ```
-git clone   https://github.com/Dwaysetya/fgo24-dom-fetching.git
+git clone   https://github.com/Dwaysetya/fgo24-react-table.git
 ```
 
 2. Enter the project firectory
